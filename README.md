@@ -2,8 +2,8 @@
 
 ### default
 
-![](https://raw.githubusercontent.com/y047aka/figma-cheat-sheet/main/default.png)
+![](https://raw.githubusercontent.com/y047aka/figma-cheat-sheet/main/images/default.png)
 
 ### inverted
 
-![](https://raw.githubusercontent.com/y047aka/figma-cheat-sheet/main/inverted.png)
+![](https://raw.githubusercontent.com/y047aka/figma-cheat-sheet/main/images/inverted.png)
